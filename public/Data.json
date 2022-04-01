@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Potato",
+    "img": "https://d1z88p83zuviay.cloudfront.net/ProductVariantThumbnailImages/25653f6e-62fe-4e1d-9e95-9adc63305f32_425x425.JPG",
+    "price": 40
+  },
+  {
+    "id": 2,
+    "name": "Onion",
+    "img": "https://t3.ftcdn.net/jpg/01/91/55/42/360_F_191554261_Kfn9mPkFP2lRmNuSkLkoe6yMnOdC1GUC.jpg",
+    "price": 250
+  },
+  {
+    "id": 3,
+    "name": "Tomato",
+    "img": "https://i.pinimg.com/originals/65/fd/6a/65fd6a509fdc68cfbcb0184dbdce387d.jpg",
+    "price": 35
+  },
+  {
+    "id": 4,
+    "name": "Cauliflower",
+    "img": "https://www.kindpng.com/picc/m/786-7862788_single-vegetables-hd-png-download.png",
+    "price": 45
+  },
+  {
+    "id": 5,
+    "name": "Cucumber",
+    "img": "https://t4.ftcdn.net/jpg/02/66/68/37/360_F_266683754_wzx9XxeNXKudct2Q3qwQf1PvVaQaKOf6.jpg",
+    "price": 65
+  },
+  {
+    "id": 6,
+    "name": "Broccoli",
+    "img": "https://www.fruitnvegiesrus.com.au/wp-content/uploads/2018/08/broccoli.jpg",
+    "price": 85
+  },
+  {
+    "id": 7,
+    "name": "Cabbage",
+    "img": "https://www.kindpng.com/picc/m/158-1587732_fruits-vegetable-single-png-download-transparent-background-single.png",
+    "price": 70
+  },
+  {
+    "id": 8,
+    "name": "Radish",
+    "img": "https://gro-zi.com/wp-content/uploads/2021/08/white-radish-png.png",
+    "price": 25
+  },
+  {
+    "id": 9,
+    "name": "Carrot",
+    "img": "https://thumbs.dreamstime.com/b/carrot-two-vegetables-white-background-166376870.jpg",
+    "price": 50
+  }
+]
